@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+h1{
+	text-align: center;
+	line-height: 30px;
+}
+.box{
+	width: 800px;
+	height: 80px;
+	margin: 0 auto;
+	border: 2px black solid;
+}
+.box h2:hover{
+	color: red;
+}
+.box2{
+	width: 500px;
+	margin: 0 auto;
+}
